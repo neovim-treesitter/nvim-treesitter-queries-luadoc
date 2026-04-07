@@ -1,7 +1,7 @@
 {
+  "lang": "luadoc",
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-luadoc",
   "semver": false,
   "parser_version": "873612aadd3f684dd4e631bdf42ea8990c57634e",
-  "location": null,
-  "lang": "luadoc"
+  "location": null
 }
